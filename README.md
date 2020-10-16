@@ -3,4 +3,4 @@ To seek the dominant spatial and longitudinal trends in long-distance spring-fes
 
 #### Preliminary Demo:
 
-[![WATCH THE Visualization(http://img.youtube.com/vi/aXvsS5E5LIM/0.jpg)](http://www.youtube.com/watch?v=aXvsS5E5LIM)
+[![WATCH THE Visualization](https://img.youtube.com/vi/aXvsS5E5LIM/0.jpg)](https://www.youtube.com/watch?v=aXvsS5E5LIM)
