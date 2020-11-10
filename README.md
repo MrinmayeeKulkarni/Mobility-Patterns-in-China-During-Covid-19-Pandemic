@@ -17,6 +17,10 @@ Following are some visualizations to show the preliminary trends,
  
 ![Movement to Destination City Weekly](Media/destination_mobility.png)
 
+![Total Mobility from Origin](Media/total_origin_mobility.png)
+
+![Total Mobility from Destination(Media/total_dest_mob.png)
+
 #### Preliminary Demo:
 
-[![WATCH THE Visualization](https://img.youtube.com/vi/aXvsS5E5LIM/0.jpg)](https://www.youtube.com/watch?v=aXvsS5E5LIM)
+[![WATCH THE Visualization](https://img.youtube.com/vi/hhkuNjh3SZE/0.jpg)](https://www.youtube.com/watch?v=hhkuNjh3SZE)
