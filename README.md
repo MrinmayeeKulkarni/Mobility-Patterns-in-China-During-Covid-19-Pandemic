@@ -19,7 +19,7 @@ Following are some visualizations to show the preliminary trends,
 
 ![Total Mobility from Origin](Media/total_origin_mobility.png)
 
-![Total Mobility from Destination(Media/total_dest_mob.png)
+![Total Mobility from Destination](Media/total_dest_mob.png)
 
 #### Preliminary Demo:
 
